@@ -64,9 +64,8 @@ Essa estrutura melhora a manutenibilidade, escalabilidade e testabilidade do sis
 2. Instale as dependências com `npm install`.
 3. Configure as variáveis de ambiente no arquivo `.env`.
 4. Execute as migrations com `npx prisma migrate dev --name init`.
-5. Rode o seed para popular o banco com dados iniciais `npx prisma db seed`.
-6. Inicie a aplicação com `npm run start:dev`.
-7. Acesse a API em `http://localhost:8080`.
+5. Inicie a aplicação com `npm run start:dev`.
+6. Acesse a API em `http://localhost:8080`.
 
 ---
 
@@ -79,4 +78,5 @@ Feito por Michel Vieira.
 - [Documentação oficial NestJS](https://docs.nestjs.com/)
 - [Documentação oficial Prisma](https://www.prisma.io/docs/)
 - [Awesome GitHub Profile README](https://github.com/matiassingers/awesome-github-profile-readme)
+
 
