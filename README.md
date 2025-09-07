@@ -77,6 +77,6 @@ Feito por Michel Vieira.
 
 - [Documentação oficial NestJS](https://docs.nestjs.com/)
 - [Documentação oficial Prisma](https://www.prisma.io/docs/)
-- [Awesome GitHub Profile README](https://github.com/matiassingers/awesome-github-profile-readme)
+
 
 
